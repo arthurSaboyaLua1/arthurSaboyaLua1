@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Arthur Saboya
+- 👀 I’m interested in create games.
+- 🌱 I’m currently learning Lua.
+- 💞️ I’m looking to collaborate on team.
+- I'm 10 years old and I want to study and master Python, Java, Lua & HTML
+- I am Brazilian
